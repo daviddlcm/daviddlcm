@@ -13,6 +13,6 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,css,discord,docker,express,figma,firebase,github,html,java,js,linux,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,css,discord,docker,express,figma,firebase,github,html,java,js,linux,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode,androidstudio,bootstrap,dart,discord,flutter,graphql,idea,jenkins,kotlin,sqlite,sequelize,vite&perline=14" />
   </a>
 </p>
