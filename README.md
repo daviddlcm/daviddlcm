@@ -6,7 +6,7 @@
 </div>
 
 
-<hr width="36%" >
+<hr width="100%" >
 
 
 - 🔭 I’m currently working on backend development using microservices and clean architecture patterns.
@@ -15,6 +15,7 @@
 - 📫 How to reach me: daviddd.dlcm@gmail.com
 
 
+<hr width="100%" >
 
 ## My Github stats 🚀
 ![daviddlcm's github stats](https://github-readme-stats.vercel.app/api?username=daviddlcm&show_icons=true&theme=tokyonight)
@@ -23,6 +24,7 @@
 
 
 
+<hr width="100%" >
 
 <div id="user-content-toc">
   <ul align="center">
